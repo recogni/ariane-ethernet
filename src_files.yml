@@ -1,0 +1,16 @@
+ariane-ethernet:
+    files:
+        - axis_async_fifo.sv
+        - axis_gmii_rx.sv
+        - axis_gmii_tx.sv
+        - dualmem_widen.sv
+        - dualmem_widen8.sv
+        - eth_mac_1g.sv
+        - eth_mac_1g_rgmii.sv
+        - eth_mac_1g_rgmii_fifo.sv
+        - rgmii_core.sv
+        - rgmii_lfsr.sv
+        - rgmii_phy_if.sv
+        - rgmii_soc.sv
+        - ssio_ddr_in.sv
+        - framing_top.sv
