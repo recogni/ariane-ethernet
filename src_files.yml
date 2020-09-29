@@ -12,5 +12,4 @@ ariane-ethernet:
         - rgmii_lfsr.sv
         - rgmii_phy_if.sv
         - rgmii_soc.sv
-        - ssio_ddr_in.sv
         - framing_top.sv
